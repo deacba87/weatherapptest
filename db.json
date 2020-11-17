@@ -1,5 +1,5 @@
 {
-  "weather":
+  "posts":
   [
     {
       "high":"78", 
@@ -13,5 +13,8 @@
       "high":"110", 
       "low":"55"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
